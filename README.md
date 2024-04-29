@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abin-Jose
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
