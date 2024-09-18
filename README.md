@@ -8,7 +8,7 @@ I'm a passionate Senior Software Engineer with extensive experience in frontend 
 ---
 
 ### 💼 Currently:
-- Working as Senior Frontend Engineer in England
+- Working as Senior Frontend Engineer
 - Building interactive and scalable user interfaces with cutting-edge technologies.
 - Focused on creating seamless user experiences.
 
