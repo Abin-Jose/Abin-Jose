@@ -1,7 +1,7 @@
 # 👋 Hello World!,     I'm Abin Jose.
 
 ### 🚀 Senior Software Engineer | TypeScript Enthusiast | Senior Frontend Engineer
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300"> -->
 
 I'm a passionate Senior Software Engineer with extensive experience in frontend development. I love working with **JavaScript**, **TypeScript**, and staying updated with the latest tech innovations.
 
